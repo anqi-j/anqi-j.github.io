@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanqi_j=self.webpackChunkanqi_j||[]).push([[8947],{6600:i=>{i.exports=JSON.parse('{"authors":[{"name":"Anqi Zhang","title":"Vision Science Researcher, PhD Candidate in Physics","url":"https://www.linkedin.com/in/anqi-work","email":"mranqizhang@gmail.com","imageURL":"/img/anqi-headshot.jpg","key":"AnqiZhangMinistry","page":null,"count":1}]}')}}]);
